@@ -1,1 +1,77 @@
 [2025-08-27 15:39:39,477 : INFO : main : Welcome to our custom logging data science]
+[2025-08-27 18:19:04,939 : INFO : common : yaml file: config\config.yaml loaded successfully]
+[2025-08-27 18:19:04,969 : INFO : common : yaml file: params.yaml loaded successfully]
+[2025-08-27 18:19:04,970 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-27 18:19:04,974 : INFO : common : created directory at: artifacts]
+[2025-08-27 18:19:04,978 : INFO : common : created directory at: artifacts/data_ingestion]
+[2025-08-27 18:19:05,487 : INFO : 1656691498 : artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 466E:14FA91:4B8D2:61F7A:68AF8459
+Accept-Ranges: bytes
+Date: Wed, 27 Aug 2025 22:19:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dtw8020-DTW
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1756333146.008369,VS0,VE105
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ce337772bc6ae45951f8bcc56e29ba3c450a6e18
+Expires: Wed, 27 Aug 2025 22:24:06 GMT
+Source-Age: 0
+
+]
+[2025-08-27 18:42:39,567 : INFO : main : >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-08-27 18:42:39,567 : ERROR : main : ConfigurationManager.get_data_ingestion_config() missing 1 required positional argument: 'self']
+Traceback (most recent call last):
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\main.py", line 9, in <module>
+    obj.initiate_data_ingestion()
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\src\datascience\pipeline\data_ingestion_pipeline.py", line 13, in initiate_data_ingestion
+    data_ingestion_config = config.get_data_ingestion_config()
+TypeError: ConfigurationManager.get_data_ingestion_config() missing 1 required positional argument: 'self'
+[2025-08-27 18:43:40,496 : INFO : main : >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-08-27 18:43:40,498 : INFO : common : yaml file: config\config.yaml loaded successfully]
+[2025-08-27 18:43:40,527 : INFO : common : yaml file: params.yaml loaded successfully]
+[2025-08-27 18:43:40,527 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-27 18:43:40,532 : INFO : common : created directory at: artifacts]
+[2025-08-27 18:43:40,534 : INFO : common : created directory at: artifacts/data_ingestion]
+[2025-08-27 18:43:40,908 : INFO : data_ingestion : artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 466E:14FA91:4B8D2:61F7A:68AF8459
+Accept-Ranges: bytes
+Date: Wed, 27 Aug 2025 22:43:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dtw8034-DTW
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1756334622.501220,VS0,VE40
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 893952428d54d726c83fe84a344409eff8d8b957
+Expires: Wed, 27 Aug 2025 22:48:41 GMT
+Source-Age: 0
+
+]
+[2025-08-27 18:43:40,912 : INFO : main : >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
