@@ -75,3 +75,31 @@ Source-Age: 0
 [2025-08-27 18:43:40,912 : INFO : main : >>>>>> stage Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2025-08-27 19:56:48,354 : INFO : common : yaml file: config\config.yaml loaded successfully]
+[2025-08-27 19:56:48,359 : INFO : common : yaml file: params.yaml loaded successfully]
+[2025-08-27 19:56:48,365 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-27 19:56:48,369 : INFO : common : created directory at: artifacts]
+[2025-08-27 20:03:19,395 : INFO : common : yaml file: config\config.yaml loaded successfully]
+[2025-08-27 20:03:19,396 : INFO : common : yaml file: params.yaml loaded successfully]
+[2025-08-27 20:03:19,399 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-27 20:03:19,400 : INFO : common : created directory at: artifacts]
+[2025-08-27 20:03:19,402 : INFO : common : created directory at: artifacts/data_validation]
+[2025-08-27 20:25:04,067 : INFO : main : >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-08-27 20:25:04,074 : INFO : common : yaml file: config\config.yaml loaded successfully]
+[2025-08-27 20:25:04,075 : INFO : common : yaml file: params.yaml loaded successfully]
+[2025-08-27 20:25:04,075 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-27 20:25:04,075 : INFO : common : created directory at: artifacts]
+[2025-08-27 20:25:04,075 : INFO : common : created directory at: artifacts/data_ingestion]
+[2025-08-27 20:25:04,078 : INFO : data_ingestion : File already exists]
+[2025-08-27 20:25:04,084 : INFO : main : >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2025-08-27 20:25:04,084 : INFO : main : >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-08-27 20:25:04,086 : INFO : common : yaml file: config\config.yaml loaded successfully]
+[2025-08-27 20:25:04,087 : INFO : common : yaml file: params.yaml loaded successfully]
+[2025-08-27 20:25:04,089 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-27 20:25:04,090 : INFO : common : created directory at: artifacts]
+[2025-08-27 20:25:04,090 : INFO : common : created directory at: artifacts/data_validation]
+[2025-08-27 20:25:04,105 : INFO : main : >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
