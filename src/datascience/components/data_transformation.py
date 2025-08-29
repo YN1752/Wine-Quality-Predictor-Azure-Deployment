@@ -11,6 +11,8 @@ class DataTransformation:
     def train_test_splitting(self):
         data = pd.read_csv(self.config.data_path)
 
+        data[self.config.target_column] = data[self.config.target_column].apply(lambda y: 1 if y>=6 else 0)
+
         train, test = train_test_split(data, random_state=42)
 
         train.to_csv(os.path.join(self.config.root_dir, "train.csv"), index=False)
