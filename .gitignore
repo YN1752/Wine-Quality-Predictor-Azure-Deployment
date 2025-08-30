@@ -3,3 +3,5 @@ logs/
 artifacts/
 research/
 .env
+.dockerignore
+image_requirements.txt
