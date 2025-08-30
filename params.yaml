@@ -1,3 +1,5 @@
+# NOTE: May not be actual parameters of the best model
+# See the experiment details of the latest registered model in mlflow
 SVC:
-  C: 0.2
-  gamma: 0.2
+  C: 0.6
+  gamma: 0.9
