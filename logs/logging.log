@@ -3026,3 +3026,403 @@ x==========x]
 [2025-08-29 20:45:46,980 : INFO : main : >>>>>> stage Model Evaluation Stage completed <<<<<<
 
 x==========x]
+[2025-08-29 21:13:34,428 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:14:14,686 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:16:18,648 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:18:38,566 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:22:48,845 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:27:49,438 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:29:10,172 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:30:53,778 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:33:00,344 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:34:57,564 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:35:28,968 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:38:51,765 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:39:20,300 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-29 21:49:59,019 : INFO : common : yaml file: schema.yaml loaded successfully]
+[2025-08-30 10:38:33,756 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:38:33,757 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:38:38,592 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:38:38] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:38:38,676 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:38:38] "[33mGET /wine_image.jpg HTTP/1.1[0m" 404 -]
+[2025-08-30 10:38:38,698 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:38:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-08-30 10:38:54,572 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:38:54] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 10:40:49,976 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:40:49,976 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:40:57,279 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:40:57] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:40:57,343 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:40:57] "[33mGET /wine_image.jpg HTTP/1.1[0m" 404 -]
+[2025-08-30 10:40:57,364 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:40:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-08-30 10:41:12,840 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:41:12] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 10:44:32,318 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:44:32,318 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:44:34,845 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:44:34] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:44:34,919 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:44:34] "[33mGET /wine_image.jpg HTTP/1.1[0m" 404 -]
+[2025-08-30 10:44:47,618 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:44:47] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 10:45:10,328 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:45:10] "GET /predict HTTP/1.1" 200 -]
+[2025-08-30 10:49:08,666 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:49:08,667 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:49:10,789 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:49:10] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:49:10,869 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:49:10] "[33mGET /templates/wine_image.jpg HTTP/1.1[0m" 404 -]
+[2025-08-30 10:49:40,220 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:49:40,221 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:49:45,033 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:49:45] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:49:45,091 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:49:45] "[33mGET /static/templates/wine_image.jpg HTTP/1.1[0m" 404 -]
+[2025-08-30 10:52:48,141 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:52:48,141 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:52:54,144 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:52:54] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:52:54,202 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:52:54] "[33mGET /templates/wine_image.jpg HTTP/1.1[0m" 404 -]
+[2025-08-30 10:52:59,704 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:52:59] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:52:59,741 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:52:59] "[33mGET /templates/wine_image.jpg HTTP/1.1[0m" 404 -]
+[2025-08-30 10:54:47,328 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:54:47,328 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:54:49,439 : ERROR : app : Exception on / [GET]]
+Traceback (most recent call last):
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\app.py", line 11, in homepage
+    return render_template("index.html")
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\templating.py", line 151, in render_template
+    return _render(app, template, context)
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\templating.py", line 132, in _render
+    rv = template.render(context)
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\templates\index.html", line 8, in top-level template code
+    background-image: url("{{url_for('templates', filename='wine_image.jpg')}}");
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\app.py", line 1697, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\flask\app.py", line 1686, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\ynaya\OneDrive\Documents\MLOps\datascienceproject\venv\lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'templates' with values ['filename']. Did you mean 'static' instead?
+[2025-08-30 10:54:49,447 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:54:49] "[35m[1mGET / HTTP/1.1[0m" 500 -]
+[2025-08-30 10:56:07,261 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:56:07,262 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:56:10,836 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:56:10] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:56:10,962 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:56:10] "GET /static/wine_image.jpg HTTP/1.1" 200 -]
+[2025-08-30 10:57:32,038 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 10:57:32,038 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 10:57:33,861 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:57:33] "GET / HTTP/1.1" 200 -]
+[2025-08-30 10:57:34,025 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:57:34] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 10:57:48,141 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:57:48] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 10:57:56,865 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 10:57:56] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:02:10,527 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:02:10,527 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:02:12,518 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:02:12] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:02:12,671 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:02:12] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:02:27,793 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:02:27] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:02:45,958 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:02:45] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:02:54,630 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:02:54] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:03:03,691 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:03:03] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:05:15,840 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:05:15,840 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:05:18,530 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:05:18] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:05:38,400 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:05:38] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:08:02,304 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:08:02,304 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:08:04,175 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:08:04] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:08:04,311 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:08:04] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:08:15,810 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:08:15] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:08:52,113 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:08:52] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:08:58,277 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:08:58] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:09:00,331 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:09:00] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:09:09,072 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:09:09] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:09:18,447 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:09:18,448 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:09:20,384 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:09:20] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:09:20,493 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:09:20] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:09:31,749 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:09:31] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:16:41,368 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:16:41,368 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:16:43,139 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:16:43] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:16:43,248 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:16:43] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:16:55,468 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:16:55] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:24:29,043 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:24:29,043 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:24:30,570 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:24:30] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:24:42,415 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:24:42] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:24:59,011 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:24:59,012 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:25:07,861 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:25:07] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:25:08,024 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:25:08] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:25:19,183 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:25:19] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:28:17,282 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:28:17,282 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:28:18,830 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:28:18] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:28:32,679 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:28:32] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:30:24,579 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:30:24,581 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:30:26,625 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:30:26] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:30:40,046 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:30:40] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:34:41,235 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:34:41,235 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:34:42,971 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:34:42] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:34:43,161 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:34:43] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:34:54,164 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:34:54] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:35:47,517 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:35:47,518 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:35:50,253 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:35:50] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:35:50,404 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:35:50] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:36:01,262 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:36:01] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:46:37,932 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:46:37,934 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:46:39,974 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:46:39] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:46:51,917 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:46:51] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:46:52,020 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:46:52] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:47:15,116 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:47:15,118 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:47:16,468 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:47:16] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:47:16,611 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:47:16] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:47:29,410 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:47:29] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:47:29,450 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:47:29] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:48:36,802 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:48:36,802 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:48:39,653 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:48:39] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:48:39,805 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:48:39] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:48:51,741 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:48:51] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:48:51,799 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:48:51] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:49:44,655 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:49:44,656 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:49:48,087 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:49:48] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:49:48,212 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:49:48] "GET /static/wine_image.jpg HTTP/1.1" 200 -]
+[2025-08-30 11:49:58,815 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:49:58] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:49:58,884 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:49:58] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:50:20,558 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:50:20] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:50:34,329 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:50:34] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:50:34,426 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:50:34] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:50:42,752 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:50:42] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:50:42,812 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:50:42] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:50:52,473 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:50:52,473 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:50:54,167 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:50:54] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:50:54,303 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:50:54] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:51:04,809 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:51:04] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:51:04,851 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:51:04] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:52:48,469 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:52:48,469 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:52:54,245 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:52:54] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:52:54,400 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:52:54] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:53:13,351 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:53:13] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:53:13,395 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:53:13] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:55:40,927 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:55:40,928 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:55:42,382 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:55:42] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:55:42,512 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:55:42] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:55:54,913 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:55:54] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:55:54,956 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:55:54] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:56:39,950 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:56:39,950 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:56:41,592 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:56:41] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:56:41,722 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:56:41] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:56:54,217 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:56:54] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:56:54,262 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:56:54] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:59:15,198 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 11:59:15,198 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 11:59:18,458 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:59:18] "GET / HTTP/1.1" 200 -]
+[2025-08-30 11:59:18,568 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:59:18] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 11:59:29,426 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:59:29] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 11:59:29,470 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 11:59:29] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:08:42,311 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 12:08:42,312 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 12:08:45,393 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:08:45] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:08:45,488 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:08:45] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:08:56,215 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:08:56] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 12:10:21,922 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 12:10:21,922 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 12:10:23,967 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:10:23] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:10:24,089 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:10:24] "GET /static/wine_image.jpg HTTP/1.1" 200 -]
+[2025-08-30 12:10:34,672 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:10:34] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 12:18:34,328 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 12:18:34,328 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 12:18:36,131 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:18:36] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:18:36,258 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:18:36] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:18:54,386 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:18:54] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 12:18:54,430 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:18:54] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:19:36,913 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 12:19:36,914 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 12:19:38,357 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:19:38] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:19:38,518 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:19:38] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:19:49,617 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:19:49] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 12:19:49,668 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:19:49] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:24:18,829 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 12:24:18,830 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 12:24:20,512 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:24:20] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:24:20,643 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:24:20] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:28:42,445 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:28:42] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 12:28:42,488 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:28:42] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:28:52,062 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:28:52] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 12:28:58,383 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:28:58] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 12:29:10,415 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:29:10] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:43:33,934 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:43:33] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:43:34,057 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:43:34] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:58:35,359 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 12:58:35,360 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 12:58:37,611 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:58:37] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:58:37,734 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:58:37] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 12:59:15,497 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 12:59:15,498 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 12:59:16,836 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:59:16] "GET / HTTP/1.1" 200 -]
+[2025-08-30 12:59:16,982 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 12:59:16] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:00:40,774 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 13:00:40,774 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 13:00:42,741 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:00:42] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:00:42,878 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:00:42] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:01:27,828 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 13:01:27,828 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 13:01:29,337 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:01:29] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:01:29,476 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:01:29] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:01:47,618 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 13:01:47,619 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 13:01:49,161 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:01:49] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:01:49,289 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:01:49] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:02:01,825 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 13:02:01,825 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 13:02:04,102 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:02:04] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:02:04,227 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:02:04] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:02:32,224 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 13:02:32,225 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 13:02:36,399 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:02:36] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:02:36,520 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:02:36] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:03:36,843 : INFO : _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.20.178.4:8080]
+[2025-08-30 13:03:36,845 : INFO : _internal : [33mPress CTRL+C to quit[0m]
+[2025-08-30 13:03:38,878 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:03:38] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:03:39,004 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:03:39] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:03:50,651 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:03:50] "POST /predict HTTP/1.1" 200 -]
+[2025-08-30 13:03:50,708 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:03:50] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]
+[2025-08-30 13:04:29,901 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:04:29] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:04:48,315 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:04:48] "GET / HTTP/1.1" 200 -]
+[2025-08-30 13:04:48,434 : INFO : _internal : 127.0.0.1 - - [30/Aug/2025 13:04:48] "[36mGET /static/wine_image.jpg HTTP/1.1[0m" 304 -]

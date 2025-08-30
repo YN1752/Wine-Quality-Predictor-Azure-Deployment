@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Wine Quality Predictor FLask App</title>
+    <style>
+        body {
+            background-image: url("{{url_for('static', filename='wine_image.jpg')}}");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            background-attachment: fixed;
+            text-align:center;
+            line-height: 1.8;
+            color: brown;
+        }
+
+        div {
+            background-color: rgb(255, 233, 123);
+            bottom: 30;
+            right: 30;
+            width:50%;
+            margin:auto;
+            border-radius: 10px;
+            box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        table, th, td {
+            border:1px solid brown;
+            font-size: 20px;
+            width: 50%;
+            text-align:center;
+            margin: auto
+        }
+        
+    </style>
+</head>
+<body>
+    <div>
+        <h1 style="font-size: 50px;">Wine Quality Predictor</h1>
+        <table>
+            {% for col,feat in data_dict.items() %}
+            <tr>
+                <td><b>{{col}}</b></td>
+                <td>{{feat}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        <h1>Quality: {{prediction}}</h1>
+    </div>
+</body>
+</html>

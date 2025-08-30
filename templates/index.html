@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Wine Quality Predictor FLask App</title>
+    <style>
+        body {
+            background-image: url("{{url_for('static', filename='wine_image.jpg')}}");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            background-attachment: fixed;
+            text-align:center;
+            line-height: 1.8;
+            color: brown;
+        }
+
+        div {
+            background-color: rgb(255, 233, 123);
+            bottom: 30;
+            right: 30;
+            width:50%;
+            margin:auto;
+            border-radius: 10px;
+            box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        label {
+            font-size: 25px;
+            display: inline-block;
+            width: 30%;
+            text-align:left;
+        }
+
+        .button {
+            background-color: brown;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            margin: 20px 4px;
+            cursor: pointer;
+            border-radius: 10px;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+        }
+        
+    </style>
+</head>
+<body>
+    <div>
+    <h1 style="font-size: 50px;">Wine Quality Predictor</h1>
+    <form action="/predict" method="post" autocomplete="off">
+        <label for="fixed_acidity"> Fixed Acidity:</label>
+		<input type="text" name="fixed_acidity" id="fixed_acidity"><br>
+        <label for="volatile_acidity"> Volatile Acidity:</label>
+		<input type="text" name="volatile_acidity" id="volatile_acidity"><br>
+        <label for="citric_acid"> Citric Acid:</label>
+		<input type="text" name="citric_acid" id="citric_acid"><br>
+        <label for="residual_sugar"> Residual Sugar:</label>
+		<input type="text" name="residual_sugar" id="residual_sugar"><br>
+        <label for="chlorides"> Chlorides:</label>
+		<input type="text" name="chlorides" id="chlorides"><br>
+        <label for="free_sulfur_dioxide"> Free Sulfur Dioxide:</label>
+		<input type="text" name="free_sulfur_dioxide" id="free_sulfur_dioxide"><br>
+        <label for="total_sulfur_dioxide"> Total Sulfur Dioxide:</label>
+		<input type="text" name="total_sulfur_dioxide" id="total_sulfur_dioxide"><br>
+        <label for="density"> Density:</label>
+		<input type="text" name="density" id="density"><br>
+        <label for="pH"> pH:</label>
+		<input type="text" name="pH" id="pH"><br>
+        <label for="sulphates"> Sulphates:</label>
+		<input type="text" name="sulphates" id="sulphates"><br>
+        <label for="alcohol"> Alcohol:</label>
+		<input type="text" name="alcohol" id="alcohol"><br>
+        <input type="submit" class="button" value="Predict">
+    </form>
+    </div>
+</body>
+</html>

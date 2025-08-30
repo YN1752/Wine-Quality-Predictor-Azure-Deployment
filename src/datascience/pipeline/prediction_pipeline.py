@@ -4,8 +4,8 @@ import mlflow
 
 class PredictionPipeline:
 
-    def __init__(self):
-        self.model = mlflow.pyfunc.load_model('runs:/a5e2b27a912e4224932a73c788342c34/model')
+    def __init__(self, model_name: str):
+        self.model = mlflow.pyfunc.load_model(f"models:/{model_name}/latest")
 
     def predict(self, data):
         prediction = self.model.predict(data)
